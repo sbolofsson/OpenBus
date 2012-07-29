@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OpenBus.Messages.BusMessage">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAEAAAAAAAAAQA=</HashCode>
+      <FileName>BusMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Events.Event">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Events\Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Requests.LightRequest">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Requests\LightRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Requests.AlarmRequest">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABAAAAAA=</HashCode>
+      <FileName>Requests\AlarmRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Requests.Co2Request">
+    <Position X="11.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Requests\Co2Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Requests.HumidityRequest">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Requests\HumidityRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Requests.TemperatureRequest">
+    <Position X="2.25" Y="5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Requests\TemperatureRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Requests.WindowRequest">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Requests\WindowRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Requests.Request">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Requests\Request.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Responses.Response">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Responses\Response.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Messages.Requests.WeatherRequest">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Requests\WeatherRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

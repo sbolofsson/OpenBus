@@ -1,0 +1,19 @@
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfKeyValueOfTypeArrayOfanyType2OQwrKDV xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+	<KeyValueOfTypeArrayOfanyType2OQwrKDV>
+		<Key xmlns:d3p1="http://schemas.datacontract.org/2004/07/System" xmlns:d3p2="http://tempuri.com" i:type="d3p2:System.RuntimeType" z:FactoryType="d3p2:System.UnitySerializationHolder" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/">
+			<Data i:type="d3p2:System.String" xmlns="">OpenBus.Messages.Requests.WeatherRequest</Data>
+			<UnityType i:type="d3p2:System.Int32" xmlns="">4</UnityType>
+			<AssemblyName i:type="d3p2:System.String" xmlns="">OpenBus.Messages, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</AssemblyName>
+		</Key>
+		<Value>
+			<anyType xmlns:d4p1="http://tempuri.com" i:type="d4p1:OpenBus.Common.Contracts.Subscription0x6010x5B0x5BOpenBus.Messages.Requests.WeatherRequest0x2C0x20OpenBus.Messages0x2C0x20Version0x3D1.0.0.00x2C0x20Culture0x3Dneutral0x2C0x20PublicKeyToken0x3Dnull0x5D0x5D">
+				<Certificate i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/OpenBus.Common.Contracts" />
+				<IncludeGenericSubClasses xmlns="http://schemas.datacontract.org/2004/07/OpenBus.Common.Contracts">false</IncludeGenericSubClasses>
+				<IncludeSubClasses xmlns="http://schemas.datacontract.org/2004/07/OpenBus.Common.Contracts">false</IncludeSubClasses>
+				<QueueAddress xmlns="http://schemas.datacontract.org/2004/07/OpenBus.Common.Contracts">net.msmq://localhost/private/MyApplication2</QueueAddress>
+				<X509Certificate xmlns:d5p1="http://schemas.datacontract.org/2004/07/System.Security.Cryptography.X509Certificates" i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/OpenBus.Common.Contracts" />
+			</anyType>
+		</Value>
+	</KeyValueOfTypeArrayOfanyType2OQwrKDV>
+</ArrayOfKeyValueOfTypeArrayOfanyType2OQwrKDV>

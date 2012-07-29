@@ -1,0 +1,123 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Contracts/f:BusMessage.cs" caret="346" fromTop="12" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Messages/d:Responses/f:Response.cs" caret="344" fromTop="12" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Messages/d:Requests/f:StateRequest.cs" caret="0" fromTop="0" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Messages/d:Requests/f:Request.cs" caret="1532" fromTop="19" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Messages/d:Events/d:Misc/f:DeviceTokenEvent.cs" caret="291" fromTop="5" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Messages/d:Events/f:Event.cs" caret="0" fromTop="0" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Contracts/f:IClient.cs" caret="174" fromTop="8" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Contracts/f:ISubscriber.cs" caret="303" fromTop="6" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Contracts/f:IServer.cs" caret="0" fromTop="0" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Contracts/f:IPublisher.cs" caret="408" fromTop="14" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Clients/f:Client.cs" caret="6511" fromTop="12" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/f:BusWorker.cs" caret="44582" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Contracts/f:IClient.cs" caret="443" fromTop="19" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Clients/f:Client.cs" caret="559" fromTop="6" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Clients/f:Client.cs" caret="8255" fromTop="15" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Clients/f:Client.cs" caret="8437" fromTop="21" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/f:BusWorker.cs" caret="1539" fromTop="12" />
+      <File id="61524005-2A1E-4AD8-831B-E6FC7A3978F8/d:Clients/f:Client.cs" caret="1520" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="return" priority="13" />
+      <Item value="scheduledTime" priority="1" />
+      <Item value="null" priority="3" />
+      <Item value="timeDifference" priority="1" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="private" priority="0" />
+      <Item value="Guid`0" priority="5" />
+      <Item value="_messageId" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="public" priority="4" />
+      <Item value="if" priority="5" />
+      <Item value="_logger" priority="3" />
+      <Item value="T`0" priority="1" />
+      <Item value="Publish`0" priority="1" />
+      <Item value="myEvent" priority="2" />
+      <Item value="timeout" priority="0" />
+      <Item value="returnedEvent" priority="5" />
+      <Item value="matchId" priority="0" />
+      <Item value="String`0" priority="2" />
+      <Item value="else" priority="0" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="publishMethod" priority="0" />
+      <Item value="firstPublish" priority="0" />
+      <Item value="void" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="_timers" priority="3" />
+      <Item value="Timeout`0" priority="0" />
+      <Item value="timer" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="lock" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="BusWorker`0" priority="1" />
+      <Item value="class" priority="1" />
+      <Item value="MyClass`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="Milliseconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="1" />
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:log4net.ILog">
+      <Item value="Error`0" priority="2" />
+      <Item value="Info`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Common.Contracts.BusMessage">
+      <Item value="MessageId" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:">
+      <Item value="MessageId" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+      <Item value="Intern`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Guid">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="TryGetValue`0" priority="0" />
+      <Item value="Remove`0" priority="1" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="Values" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Timer">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

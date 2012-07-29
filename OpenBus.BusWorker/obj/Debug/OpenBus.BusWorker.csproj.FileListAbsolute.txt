@@ -1,0 +1,12 @@
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\OpenBus.BusWorker.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\OpenBus.BusWorker.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\log4net.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\OpenBus.Common.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\OpenBus.Messages.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\OpenBus.Common.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\OpenBus.Messages.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\OpenBus.Messages.xml
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\obj\Debug\OpenBus.BusWorker.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\obj\Debug\OpenBus.BusWorker.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.BusWorker\bin\Debug\OpenBus.BusWorker.dll.config

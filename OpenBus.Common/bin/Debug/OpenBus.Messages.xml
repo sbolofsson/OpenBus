@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpenBus.Messages</name>
+    </assembly>
+    <members>
+        <member name="T:OpenBus.Messages.Requests.WindowRequest">
+            <summary>
+            Changes the state of a window
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Requests.Request">
+            <summary>
+            Request for something to be done or changed.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.BusMessage">
+            <summary>
+            Base class defining valid messages on the bus.
+            All messages that are going to be sent on the bus should directly or indirectly inherit from this class.
+            </summary>
+        </member>
+        <member name="M:OpenBus.Messages.BusMessage.#ctor">
+            <summary>
+            Default constructor
+            </summary>
+        </member>
+        <member name="M:OpenBus.Messages.BusMessage.ToString">
+            <summary>
+            Prints a message well formated.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:OpenBus.Messages.BusMessage.ResourceId">
+            <summary>
+            The local Id for the message.
+            This will automatically be mapped over to the global Id on publish.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.BusMessage.MessageId">
+            <summary>
+            The global Id for the message.
+            This will automatically be mapped over to the local Id on callback.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.BusMessage.Time">
+            <summary>
+            Time of creation
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Requests.WindowRequest.PositionState">
+            <summary>
+            The requested state of the window.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Requests.HumidityRequest">
+            <summary>
+            Request for changing the humidity
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Requests.HumidityRequest.SetPoint">
+            <summary>
+            The requested humidity setpoint.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Events.LightEvent">
+            <summary>
+            Indicates that the light has changed.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Events.Event">
+            <summary>
+            Events indicating that something has changed.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Events.LightEvent.State">
+            <summary>
+            The current state of the light.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Requests.LightRequest">
+            <summary>
+            Request for the light to be set
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Requests.LightRequest.State">
+            <summary>
+            The requested state of the light.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Requests.Co2Request">
+            <summary>
+            A request for Co2 to be changed.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Requests.Co2Request.SetPoint">
+            <summary>
+            The requested Co2 setpoint.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.PositionState">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.LockState">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.ToggleState">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Events.RainEvent">
+            <summary>
+            Indicates whether it started or stopped raining.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Events.RainEvent.IsRaining">
+            <summary>
+            Is it raining.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Events.TemperatureEvent">
+            <summary>
+            Indicates a change in temperature.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Events.TemperatureEvent.Temperature">
+            <summary>
+            The current temperature value.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Events.HumidityEvent">
+            <summary>
+            Indicates that humidity has changed.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Events.HumidityEvent.Humidity">
+            <summary>
+            The current humidity.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Events.AlarmEvent">
+            <summary>
+            Indicates a change in the alarm.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Events.AlarmEvent.AlarmState">
+            <summary>
+            The current state of the alarm.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Requests.WeatherRequest">
+            <summary>
+            Request for the weather
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Responses.WeatherResponse">
+            <summary>
+            A response with the weather
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Responses.Response">
+            <summary>
+            A response to a request.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Requests.TemperatureRequest">
+            <summary>
+            Request for the temperature to be set.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Requests.TemperatureRequest.SetPoint">
+            <summary>
+            The requested temperature.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Events.Co2Event">
+            <summary>
+            Indicates a change in Co2 level.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Events.Co2Event.Co2">
+            <summary>
+            The current Co2 level.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Requests.AlarmRequest">
+            <summary>
+            Request the alarm to change state, e.g. turn on alarm
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Requests.AlarmRequest.State">
+            <summary>
+            The requested state of the alarm.
+            </summary>
+        </member>
+        <member name="P:OpenBus.Messages.Requests.AlarmRequest.Password">
+            <summary>
+            If a password is required set it here.
+            </summary>
+        </member>
+        <member name="T:OpenBus.Messages.Events.MotionEvent">
+            <summary>
+            Indicates that motion has been registered
+            </summary>
+        </member>
+    </members>
+</doc>

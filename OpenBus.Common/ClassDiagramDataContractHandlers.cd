@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OpenBus.Common.Serialization.BusDataContractFormat" BaseTypeListCollapsed="true">
+    <Position X="0.75" Y="0.75" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="OpenBus.Common.Serialization.BusDataContractFormat.BusDataContractSerializerOperationBehavior">
+        <TypeIdentifier>
+          <NewMemberFileName>Serialization\BusDataContractFormat.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAYAAAAAAIIAAACAAAAiABAAAgAQAAgAEAA=</HashCode>
+      <FileName>Serialization\BusDataContractFormat.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OpenBus.Common.Serialization.BusDataContractResolver">
+    <Position X="4.5" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAIAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serialization\BusDataContractResolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Common.Serialization.BusDataContractSurrogate" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAkAAAAAAAAAIAAAAAAAAAAAAAAAABAAABgAAAAACAA=</HashCode>
+      <FileName>Serialization\BusDataContractSurrogate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,5 @@
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Messages\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Messages\bin\Debug\OpenBus.Messages.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Messages\bin\Debug\OpenBus.Messages.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Messages\obj\Debug\OpenBus.Messages.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Messages\obj\Debug\OpenBus.Messages.pdb

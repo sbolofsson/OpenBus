@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="61524005-2A1E-4AD8-831B-E6FC7A3978F8" ModuleId="OpenBus.Messages" />
+  <Module PersistentId="9DFA0568-EDD0-4BAD-BC88-ECF61260197D" ModuleId="OpenBus.Common" />
+  <Module PersistentId="803B88C0-056B-4D6B-947F-1EE93F1920CE" ModuleId="OpenBus.BusWorker" />
+  <Module PersistentId="ACA48F30-23B2-4965-AB3A-64ADF6694294" ModuleId="OpenBus.Bus" />
+  <Module PersistentId="3D15DDA3-1E36-4F35-82DE-00C3A2BD22E3" ModuleId="MyApplication1" />
+  <Module PersistentId="14745447-BC79-4800-B5C1-FED3508AFFA1" ModuleId="MyApplication2" />
+  <Module PersistentId="9C037A3F-D306-4EFC-B331-92AF1060BB58" ModuleId="OpenBus.Service" />
+</Modules>

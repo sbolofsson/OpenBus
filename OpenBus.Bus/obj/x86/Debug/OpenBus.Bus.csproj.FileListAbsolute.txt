@@ -1,0 +1,14 @@
+C:\Users\sol\Documents\Visual Studio 2010\Projects\SolarDecathlon2012\Bus\Bus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sol\Documents\Visual Studio 2010\Projects\SolarDecathlon2012\Bus\Bus\obj\x86\Debug\Bus.exe
+C:\Users\sol\Documents\Visual Studio 2010\Projects\SolarDecathlon2012\Bus\Bus\obj\x86\Debug\Bus.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\bin\Debug\OpenBus.Bus.exe.config
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\bin\Debug\OpenBus.Bus.exe
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\bin\Debug\OpenBus.Bus.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\bin\Debug\OpenBus.Common.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\bin\Debug\OpenBus.Messages.dll
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\bin\Debug\OpenBus.Common.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\bin\Debug\OpenBus.Messages.pdb
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\bin\Debug\OpenBus.Messages.xml
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\obj\x86\Debug\OpenBus.Bus.exe
+C:\Users\sol\Documents\Visual Studio 2010\Projects\OpenBus\OpenBus.Bus\obj\x86\Debug\OpenBus.Bus.pdb

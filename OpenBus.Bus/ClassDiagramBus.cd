@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OpenBus.Bus.Bus">
+    <Position X="7.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAIAAQAAAAAAABAAAEAAIAABAAAAACAAAAA=</HashCode>
+      <FileName>Bus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenBus.Bus.Program">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_server" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OpenBus.Bus.Servers.Server" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAQAAAAACBAAAIAAAUAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Servers\Server.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OpenBus.Bus.Services.PublishService" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAGAAAAAgIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\PublishService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OpenBus.Bus.Services.SubscribeService" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABIAACAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Services\SubscribeService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OpenBus.Common.Contracts.IServer">
+    <Position X="3.25" Y="0.75" Width="2" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="OpenBus.Common.Contracts.ISubscriber&lt;T&gt;">
+    <Position X="5.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="OpenBus.Common.Contracts.IPublisher&lt;T&gt;">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
